@@ -1,8 +1,9 @@
 # 💫 Sobre Mim:
-ava Developer in Progress
+Java Developer in Progress
 Residing at LLAM Technology Institute, specializing in backend development with Java. I am honing my skills in Spring Boot, GitBash, GitLab, GitHub, Docker, Kubernetes, DBeaver, Swagger API, and the development of RESTful APIs. My journey also includes expanding expertise in frontend development using HTML, CSS, and Flutter, as well as project management through tools like Redmine, Rocket.Chat, and Kanban boards.
 
 I focus on creating secure connections using VPN and applying Agile methodologies, with a strong emphasis on Scrum and Kanban. Always driven to learn, evolve, and contribute to challenging projects that demand efficient and scalable solutions.
+
 
 Technical Abilities:
 • Java (Spring Boot);
