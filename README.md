@@ -1,5 +1,36 @@
 # 💫 Sobre Mim:
-Com foco em desenvolvimento backend e uma jornada de constante aprimoramento, sou residente no LLAM, um laboratório prático onde estou desenvolvendo habilidades em Java e tecnologias como Spring Boot, GitBash, GitLab, GitHub, Docker, DBeaver, Swagger API, e no desenvolvimento de APIs RESTful. Tenho experiência em bancos de dados SQL, mensageria com Kafka, execução de testes, e gerenciamento de projetos utilizando ferramentas como Jira, Redmine e Rocket.Chat. Também estou expandindo competências em frontend com HTML e CSS e trabalhando com conexões seguras via VPN, aplicando metodologias ágeis, com ênfase em Scrum. Atualmente, estudo inglês de forma autodidata, com o objetivo de evoluir continuamente, aprender novas tecnologias e contribuir para projetos desafiadores que permitam criar soluções robustas, eficientes e escaláveis.
+ava Developer in Progress
+Residing at LLAM Technology Institute, specializing in backend development with Java. I am honing my skills in Spring Boot, GitBash, GitLab, GitHub, Docker, Kubernetes, DBeaver, Swagger API, and the development of RESTful APIs. My journey also includes expanding expertise in frontend development using HTML, CSS, and Flutter, as well as project management through tools like Redmine, Rocket.Chat, and Kanban boards.
+
+I focus on creating secure connections using VPN and applying Agile methodologies, with a strong emphasis on Scrum and Kanban. Always driven to learn, evolve, and contribute to challenging projects that demand efficient and scalable solutions.
+
+Technical Abilities:
+• Java (Spring Boot);
+• PostgreSQL | SQL;
+• React.js;
+• Node.js;
+• Flutter;
+• RESTful APIs;
+• HTML5 | CSS3;
+• Docker | Kubernetes;
+• Git (GitBash, GitHub, GitLab);
+• Redmine | Rocket.Chat;
+• Kanban;
+• VPN Configuration;
+• Swagger API.
+
+Tools:
+• IntelliJ IDEA;
+• Visual Studio Code;
+• DBeaver;
+• Gamma AI.
+
+Personal Qualities:
+• Fast learner;
+• Detail-oriented;
+• Problem-solver;
+• Customer-focused mindset;
+• Team player with excellent feedback skills.
 
 
 ## 🌐 Sociais:
